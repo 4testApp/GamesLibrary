@@ -17,3 +17,4 @@ The user can also edit, delete or add a new game at this page. There is search f
 User can click on the game title to see more details about this game on another page.
 
 ![game-details](https://user-images.githubusercontent.com/55657036/80840889-f5d08f80-8c06-11ea-81c1-8169696db267.JPG)
+TEST-1
